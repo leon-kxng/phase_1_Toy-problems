@@ -6,7 +6,7 @@ const calculateTax = () => {
   const calculatePaye = () => {
     let paye;
     if (salary < 24000) {
-      paye = salary * 0.01;
+      paye = salary * 0.1;
     } else if (salary >= 24001 && salary <= 32333) {
       paye = salary * 0.25;
     } else if (salary >= 32333) {
