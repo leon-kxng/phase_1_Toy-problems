@@ -32,4 +32,4 @@
 - Tax.js : Run the application using node tax.js
 
 # Author & Licences 
-LeonKigen  & [MIT license](LICENSE)
+leon-kxng  & [MIT license](LICENSE)
